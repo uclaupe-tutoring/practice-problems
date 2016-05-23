@@ -831,10 +831,11 @@ What really helps in solving this problem is drawing a picture. Being able to vi
 
 Say we have a 2-D array of dimensions 2 x 2, so 2 elements in the ‘row’ and 2 elements in the ‘column’. This would look something like this:
 
-| 0 | 1
---- | --- | ---
-0 | 27 | 33
-1 | -15 | 1223
+
+|     | 0   | 1    |
+| --- | --- | ---- |
+| 0   | 27  | 33   |
+| 1   | -15 | 1223 |
 
 If we want to convert this 2-D array into a 1-D array, we can basically cut the 2-D array above in half and connect the ends, forming the array:
 
