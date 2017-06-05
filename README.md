@@ -1,5 +1,11 @@
-# [UPE Tutoring] CS 31 and CS 32 Practice Problems
+# [UPE Tutoring] CS31, CS32, and CS33 Practice Problems
 
-[CS 31](https://github.com/uclaupe-tutoring/practice-problems/wiki/CS-31-Practice-Problems) and [CS 32](https://github.com/uclaupe-tutoring/practice-problems/wiki/CS-32-Practice-Problems) practice problems, contributed by Spring '16 UPE inductees. Prepared by the UPE Tutoring Committee.
+Practice problems contributed by inductees for [Upsilon Pi Epsilon](https://upe.seas.ucla.edu/), edited by the UPE Tutoring Committee.
 
-Please [submit an issue](https://github.com/uclaupe-tutoring/practice-problems/issues/new) if you notice a problem with a question.
+* [[CS31 Spring '16|CS-31-(Spring-'16)]]
+* [[CS31 Fall '16|CS-31-(Fall-'16)]]
+* [[CS32 Spring '16|CS-32-(Spring-'16)]]
+* [[CS32 Fall '16|CS-32-(Fall-'16)]]
+* [[CS33 Fall '16|CS-33-(Fall-'16)]]
+
+Please submit an [issue](https://github.com/uclaupe-tutoring/practice-problems/issues) if you notice a problem with a question.
