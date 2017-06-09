@@ -1,5 +1,5 @@
 # [UCLA UPE Tutoring]
-# CS31, CS32, and CS33 Practice Problems
+## CS31, CS32, and CS33 Practice Problems
 
 Practice problems contributed by inductees for UCLA [Upsilon Pi Epsilon](https://upe.seas.ucla.edu/), edited by the UPE Tutoring Committee.
 
